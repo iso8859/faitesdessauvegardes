@@ -1,1 +1,1 @@
-[Retrouver notre wiki sur les sauvaegardes](../wiki/Pourquoi-faire-des-sauvegardes%3F)
+[Retrouver notre wiki sur les sauvegardes](../wiki/Pourquoi-faire-des-sauvegardes%3F)
